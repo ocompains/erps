@@ -1,9 +1,5 @@
-/**
- * 
- * @author OSKAR
- *
- */
-public class Main {
+
+public class other {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
