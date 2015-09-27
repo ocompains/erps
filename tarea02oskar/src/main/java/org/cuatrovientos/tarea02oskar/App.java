@@ -1,6 +1,8 @@
 package org.cuatrovientos.tarea02oskar;
 
-
+/**
+ * 
+ */
 import java.util.Scanner;
 import java.util.Vector;
 
